@@ -1,0 +1,9 @@
+.cardContainer {
+    line-height: 50px;
+}
+
+.author {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
